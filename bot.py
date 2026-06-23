@@ -10,7 +10,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # --- CONFIGURATION ---
-TOKEN = "YOUR_BOT_TOKEN_HERE"  # <--- YAHAN APNA TOKEN DAALO
+TOKEN = "8786119947:AAGudZieNfpeGtj4AFWN9_zWbtohvs3Vguk"  # <--- YAHAN APNA TOKEN DAALO
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 # Bot Settings
